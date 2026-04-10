@@ -1,0 +1,759 @@
+Tournament,Stage,Match Type,Match Name,Map,Team,Elimination,Detonated,Defused,Time Expiry (No Plant),Eliminated,Defused Failed,Detonation Denied,Time Expiry (Failed to Plant)
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Gentle Mates vs EDward Gaming,Haven,Gentle Mates,10,2,1,0,6,2,3,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Gentle Mates vs EDward Gaming,Haven,EDward Gaming,6,2,3,0,10,2,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Gentle Mates vs EDward Gaming,Pearl,Gentle Mates,7,2,2,2,5,0,1,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Gentle Mates vs EDward Gaming,Pearl,EDward Gaming,5,0,1,1,7,2,2,2
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Xi Lai Gaming vs NRG,Haven,Xi Lai Gaming,1,0,1,0,7,5,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Xi Lai Gaming vs NRG,Haven,Mega Minors,7,5,1,0,1,0,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Xi Lai Gaming vs NRG,Abyss,Xi Lai Gaming,9,0,1,0,9,2,2,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,Xi Lai Gaming vs NRG,Abyss,Mega Minors,9,2,2,0,9,0,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,G2 Esports vs Paper Rex,Split,G2 Esports,7,0,2,0,8,0,5,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,G2 Esports vs Paper Rex,Split,Paper Rex,8,0,5,0,7,0,2,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,G2 Esports vs Paper Rex,Corrode,G2 Esports,5,0,0,0,9,0,4,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,G2 Esports vs Paper Rex,Corrode,Paper Rex,9,0,4,0,5,0,0,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,T1 vs Team Liquid,Breeze,T1,5,0,3,0,7,2,4,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,T1 vs Team Liquid,Breeze,Team Liquid,7,2,4,0,5,0,3,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,T1 vs Team Liquid,Split,T1,6,1,5,1,10,2,3,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 1,T1 vs Team Liquid,Split,Team Liquid,10,2,3,0,6,1,5,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Paper Rex vs NRG,Split,Paper Rex,10,2,1,0,7,2,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Paper Rex vs NRG,Split,Mega Minors,7,2,1,0,10,2,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Paper Rex vs NRG,Pearl,Paper Rex,9,0,1,0,5,3,5,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Paper Rex vs NRG,Pearl,Mega Minors,5,3,5,0,9,0,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Paper Rex vs NRG,Haven,Paper Rex,6,3,4,0,6,3,2,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Paper Rex vs NRG,Haven,Mega Minors,6,3,2,0,6,3,4,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Gentle Mates vs Team Liquid,Pearl,Gentle Mates,10,2,1,0,7,1,3,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Gentle Mates vs Team Liquid,Pearl,Team Liquid,7,1,3,0,10,2,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Gentle Mates vs Team Liquid,Bind,Gentle Mates,11,2,0,0,3,0,0,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (1-0),Gentle Mates vs Team Liquid,Bind,Team Liquid,3,0,0,0,11,2,0,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),EDward Gaming vs T1,Bind,EDward Gaming,0,0,1,0,10,3,0,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),EDward Gaming vs T1,Bind,T1,10,3,0,0,0,0,1,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),EDward Gaming vs T1,Haven,EDward Gaming,7,0,3,0,8,1,2,2
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),EDward Gaming vs T1,Haven,T1,8,1,2,2,7,0,3,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),Xi Lai Gaming vs G2 Esports,Abyss,Xi Lai Gaming,5,0,2,1,10,0,2,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),Xi Lai Gaming vs G2 Esports,Abyss,G2 Esports,10,0,2,1,5,0,2,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),Xi Lai Gaming vs G2 Esports,Haven,Xi Lai Gaming,3,0,0,0,9,1,2,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 2 (0-1),Xi Lai Gaming vs G2 Esports,Haven,G2 Esports,9,1,2,1,3,0,0,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,NRG vs Team Liquid,Breeze,Mega Minors,9,1,2,1,8,0,3,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,NRG vs Team Liquid,Breeze,Team Liquid,8,0,3,0,9,1,2,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,NRG vs Team Liquid,Abyss,Mega Minors,6,0,6,1,2,2,0,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,NRG vs Team Liquid,Abyss,Team Liquid,2,2,0,0,6,0,6,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,G2 Esports vs T1,Breeze,G2 Esports,6,2,5,0,3,1,1,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,G2 Esports vs T1,Breeze,T1,3,1,1,1,6,2,5,0
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,G2 Esports vs T1,Haven,G2 Esports,11,2,3,0,10,1,2,1
+Valorant Masters Santiago 2026,Swiss Stage,Round 3,G2 Esports vs T1,Haven,T1,10,1,2,1,11,2,3,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,FURIA vs Paper Rex,Haven,FURIA,8,2,3,0,6,1,2,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,FURIA vs Paper Rex,Haven,Paper Rex,6,1,2,0,8,2,3,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,FURIA vs Paper Rex,Breeze,FURIA,2,1,1,0,7,1,4,1
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,FURIA vs Paper Rex,Breeze,Paper Rex,7,1,4,1,2,1,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,FURIA vs Paper Rex,Split,FURIA,7,0,0,0,10,0,2,1
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,FURIA vs Paper Rex,Split,Paper Rex,10,0,2,1,7,0,0,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,Nongshim RedForce vs Gentle Mates,Haven,Nongshim RedForce,12,0,1,0,8,0,2,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,Nongshim RedForce vs Gentle Mates,Haven,Gentle Mates,8,0,2,0,12,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,Nongshim RedForce vs Gentle Mates,Corrode,Nongshim RedForce,10,1,2,0,9,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,Nongshim RedForce vs Gentle Mates,Corrode,Gentle Mates,9,0,1,0,10,1,2,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,BBL Esports vs NRG,Pearl,BBL Esports,5,0,1,0,12,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,BBL Esports vs NRG,Pearl,Mega Minors,12,0,1,0,5,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,BBL Esports vs NRG,Abyss,BBL Esports,6,3,4,0,5,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,BBL Esports vs NRG,Abyss,Mega Minors,5,0,1,0,6,3,4,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,BBL Esports vs NRG,Split,BBL Esports,13,0,2,0,11,2,4,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,BBL Esports vs NRG,Split,Mega Minors,11,2,4,0,13,0,2,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,All Gamers vs G2 Esports,Split,All Gamers,3,1,1,1,8,2,3,0
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,All Gamers vs G2 Esports,Split,G2 Esports,8,2,3,0,3,1,1,1
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,All Gamers vs G2 Esports,Abyss,All Gamers,3,0,1,0,6,1,5,1
+Valorant Masters Santiago 2026,Playoffs,Upper Quarterfinals,All Gamers vs G2 Esports,Abyss,G2 Esports,6,1,5,1,3,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,FURIA vs BBL Esports,Haven,FURIA,2,1,3,1,8,2,2,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,FURIA vs BBL Esports,Haven,BBL Esports,8,2,2,1,2,1,3,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,FURIA vs BBL Esports,Breeze,FURIA,9,0,4,0,7,1,1,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,FURIA vs BBL Esports,Breeze,BBL Esports,7,1,1,1,9,0,4,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,FURIA vs BBL Esports,Abyss,FURIA,4,0,7,0,7,1,4,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,FURIA vs BBL Esports,Abyss,BBL Esports,7,1,4,1,4,0,7,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,Gentle Mates vs All Gamers,Pearl,Gentle Mates,10,0,3,0,1,0,3,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,Gentle Mates vs All Gamers,Pearl,All Gamers,1,0,3,1,10,0,3,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,Gentle Mates vs All Gamers,Split,Gentle Mates,2,2,0,0,7,0,6,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,Gentle Mates vs All Gamers,Split,All Gamers,7,0,6,0,2,2,0,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,Gentle Mates vs All Gamers,Bind,Gentle Mates,4,4,0,0,11,1,1,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 1,Gentle Mates vs All Gamers,Bind,All Gamers,11,1,1,0,4,4,0,0
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Nongshim RedForce vs G2 Esports,Corrode,Nongshim RedForce,12,1,0,0,5,1,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Nongshim RedForce vs G2 Esports,Corrode,G2 Esports,5,1,1,0,12,1,0,0
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Nongshim RedForce vs G2 Esports,Split,Nongshim RedForce,11,0,3,0,8,0,4,0
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Nongshim RedForce vs G2 Esports,Split,G2 Esports,8,0,4,0,11,0,3,0
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Nongshim RedForce vs G2 Esports,Abyss,Nongshim RedForce,3,0,3,1,6,2,5,0
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Nongshim RedForce vs G2 Esports,Abyss,G2 Esports,6,2,5,0,3,0,3,1
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Paper Rex vs NRG,Pearl,Paper Rex,11,0,1,0,9,1,3,1
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Paper Rex vs NRG,Pearl,Mega Minors,9,1,3,1,11,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Paper Rex vs NRG,Bind,Paper Rex,7,1,2,1,3,5,4,1
+Valorant Masters Santiago 2026,Playoffs,Upper Semifinals,Paper Rex vs NRG,Bind,Mega Minors,3,5,4,1,7,1,2,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,G2 Esports vs BBL Esports,Haven,G2 Esports,9,2,2,0,5,0,0,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,G2 Esports vs BBL Esports,Haven,BBL Esports,5,0,0,0,9,2,2,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,G2 Esports vs BBL Esports,Breeze,G2 Esports,7,1,5,0,8,0,0,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,G2 Esports vs BBL Esports,Breeze,BBL Esports,8,0,0,0,7,1,5,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,Paper Rex vs All Gamers,Corrode,Paper Rex,6,2,2,0,9,2,1,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,Paper Rex vs All Gamers,Corrode,All Gamers,9,2,1,1,6,2,2,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,Paper Rex vs All Gamers,Pearl,Paper Rex,10,0,2,1,3,0,4,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,Paper Rex vs All Gamers,Pearl,All Gamers,3,0,4,0,10,0,2,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,Paper Rex vs All Gamers,Split,Paper Rex,9,3,1,0,1,0,3,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 2,Paper Rex vs All Gamers,Split,All Gamers,1,0,3,0,9,3,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Final,Nongshim RedForce vs NRG,Bind,Nongshim RedForce,7,3,3,0,5,0,3,1
+Valorant Masters Santiago 2026,Playoffs,Upper Final,Nongshim RedForce vs NRG,Bind,Mega Minors,5,0,3,1,7,3,3,0
+Valorant Masters Santiago 2026,Playoffs,Upper Final,Nongshim RedForce vs NRG,Abyss,Nongshim RedForce,9,2,2,0,8,2,1,0
+Valorant Masters Santiago 2026,Playoffs,Upper Final,Nongshim RedForce vs NRG,Abyss,Mega Minors,8,2,1,0,9,2,2,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 3,Paper Rex vs G2 Esports,Haven,Paper Rex,9,1,0,1,12,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 3,Paper Rex vs G2 Esports,Haven,G2 Esports,12,0,1,0,9,1,0,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 3,Paper Rex vs G2 Esports,Breeze,Paper Rex,8,0,5,0,6,2,1,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 3,Paper Rex vs G2 Esports,Breeze,G2 Esports,6,2,1,0,8,0,5,0
+Valorant Masters Santiago 2026,Playoffs,Lower Round 3,Paper Rex vs G2 Esports,Corrode,Paper Rex,12,0,1,0,1,1,1,1
+Valorant Masters Santiago 2026,Playoffs,Lower Round 3,Paper Rex vs G2 Esports,Corrode,G2 Esports,1,1,1,1,12,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Pearl,Mega Minors,6,1,6,0,4,0,4,0
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Pearl,Paper Rex,4,0,4,0,6,1,6,0
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Split,Mega Minors,4,0,3,0,9,2,2,0
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Split,Paper Rex,9,2,2,0,4,0,3,0
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Corrode,Mega Minors,4,1,1,0,9,0,3,1
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Corrode,Paper Rex,9,0,3,1,4,1,1,0
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Breeze,Mega Minors,8,1,0,0,9,3,1,0
+Valorant Masters Santiago 2026,Playoffs,Lower Final,NRG vs Paper Rex,Breeze,Paper Rex,9,3,1,0,8,1,0,0
+Valorant Masters Santiago 2026,Playoffs,Grand Final,Nongshim RedForce vs Paper Rex,Corrode,Nongshim RedForce,10,1,2,0,6,0,5,0
+Valorant Masters Santiago 2026,Playoffs,Grand Final,Nongshim RedForce vs Paper Rex,Corrode,Paper Rex,6,0,5,0,10,1,2,0
+Valorant Masters Santiago 2026,Playoffs,Grand Final,Nongshim RedForce vs Paper Rex,Split,Nongshim RedForce,13,0,0,0,4,0,0,0
+Valorant Masters Santiago 2026,Playoffs,Grand Final,Nongshim RedForce vs Paper Rex,Split,Paper Rex,4,0,0,0,13,0,0,0
+Valorant Masters Santiago 2026,Playoffs,Grand Final,Nongshim RedForce vs Paper Rex,Abyss,Nongshim RedForce,11,0,2,0,2,0,1,0
+Valorant Masters Santiago 2026,Playoffs,Grand Final,Nongshim RedForce vs Paper Rex,Abyss,Paper Rex,2,0,1,0,11,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,ENVY vs Evil Geniuses,Abyss,ENVY,6,0,3,0,8,0,5,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,ENVY vs Evil Geniuses,Abyss,Evil Geniuses,8,0,5,0,6,0,3,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,ENVY vs Evil Geniuses,Corrode,ENVY,9,2,2,0,6,1,3,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,ENVY vs Evil Geniuses,Corrode,Evil Geniuses,6,1,3,0,9,2,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,ENVY vs Evil Geniuses,Bind,ENVY,11,1,1,0,5,1,3,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,ENVY vs Evil Geniuses,Bind,Evil Geniuses,5,1,3,0,11,1,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,LOUD vs Cloud9,Haven,LOUD,6,0,1,0,5,5,3,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,LOUD vs Cloud9,Haven,Cloud9,5,5,3,0,6,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,LOUD vs Cloud9,Abyss,LOUD,9,0,2,0,8,3,1,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,LOUD vs Cloud9,Abyss,Cloud9,8,3,1,1,9,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,KRÜ Esports vs FURIA,Pearl,KRÜ Esports,5,3,3,2,8,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,KRÜ Esports vs FURIA,Pearl,FURIA,8,0,2,0,5,3,3,2
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,KRÜ Esports vs FURIA,Breeze,KRÜ Esports,5,2,1,0,9,2,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,KRÜ Esports vs FURIA,Breeze,FURIA,9,2,2,0,5,2,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,KRÜ Esports vs FURIA,Abyss,KRÜ Esports,3,1,1,0,11,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,KRÜ Esports vs FURIA,Abyss,FURIA,11,0,2,0,3,1,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,100 Thieves vs LEVIATÁN,Bind,100 Thieves,8,3,1,1,8,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,100 Thieves vs LEVIATÁN,Bind,LEVIATÁN,8,0,1,0,8,3,1,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,100 Thieves vs LEVIATÁN,Pearl,100 Thieves,5,4,1,0,7,2,2,2
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,100 Thieves vs LEVIATÁN,Pearl,LEVIATÁN,7,2,2,2,5,4,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,100 Thieves vs LEVIATÁN,Split,100 Thieves,7,2,3,1,4,0,5,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 1,100 Thieves vs LEVIATÁN,Split,LEVIATÁN,4,0,5,0,7,2,3,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,NRG vs Cloud9,Pearl,Mega Minors,11,2,0,0,2,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,NRG vs Cloud9,Pearl,Cloud9,2,0,0,0,11,2,0,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,NRG vs Cloud9,Breeze,Mega Minors,5,1,5,2,4,1,4,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,NRG vs Cloud9,Breeze,Cloud9,4,1,4,0,5,1,5,2
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,MIBR vs ENVY,Abyss,MIBR,8,0,5,0,5,1,0,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,MIBR vs ENVY,Abyss,ENVY,5,1,0,1,8,0,5,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,MIBR vs ENVY,Corrode,MIBR,12,0,1,0,7,4,0,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,MIBR vs ENVY,Corrode,ENVY,7,4,0,0,12,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,Sentinels vs FURIA,Split,Sentinels,5,0,0,0,9,1,2,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,Sentinels vs FURIA,Split,FURIA,9,1,2,1,5,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,Sentinels vs FURIA,Breeze,Sentinels,6,3,2,0,5,4,2,2
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,Sentinels vs FURIA,Breeze,FURIA,5,4,2,2,6,3,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,G2 Esports vs 100 Thieves,Bind,G2 Esports,8,2,2,1,6,2,3,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,G2 Esports vs 100 Thieves,Bind,100 Thieves,6,2,3,0,8,2,2,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,G2 Esports vs 100 Thieves,Corrode,G2 Esports,2,1,0,0,11,0,1,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,G2 Esports vs 100 Thieves,Corrode,100 Thieves,11,0,1,1,2,1,0,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,G2 Esports vs 100 Thieves,Split,G2 Esports,11,0,2,0,8,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 2,G2 Esports vs 100 Thieves,Split,100 Thieves,8,0,0,0,11,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LOUD vs 100 Thieves,Breeze,LOUD,10,0,3,0,5,2,4,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LOUD vs 100 Thieves,Breeze,100 Thieves,5,2,4,0,10,0,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LOUD vs 100 Thieves,Bind,LOUD,3,1,2,0,7,1,3,2
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LOUD vs 100 Thieves,Bind,100 Thieves,7,1,3,2,3,1,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LOUD vs 100 Thieves,Pearl,LOUD,2,0,0,0,7,0,4,2
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LOUD vs 100 Thieves,Pearl,100 Thieves,7,0,4,2,2,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,Evil Geniuses vs Sentinels,Abyss,Evil Geniuses,3,2,3,0,9,1,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,Evil Geniuses vs Sentinels,Abyss,Sentinels,9,1,3,0,3,2,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,Evil Geniuses vs Sentinels,Pearl,Evil Geniuses,6,1,4,0,7,1,3,2
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,Evil Geniuses vs Sentinels,Pearl,Sentinels,7,1,3,2,6,1,4,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,KRÜ Esports vs ENVY,Abyss,KRÜ Esports,9,2,2,0,7,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,KRÜ Esports vs ENVY,Abyss,ENVY,7,0,2,0,9,2,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,KRÜ Esports vs ENVY,Pearl,KRÜ Esports,2,0,3,0,10,0,2,1
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,KRÜ Esports vs ENVY,Pearl,ENVY,10,0,2,1,2,0,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,KRÜ Esports vs ENVY,Breeze,KRÜ Esports,8,0,1,0,8,2,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,KRÜ Esports vs ENVY,Breeze,ENVY,8,2,3,0,8,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LEVIATÁN vs Cloud9,Pearl,LEVIATÁN,1,1,1,0,5,2,4,2
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LEVIATÁN vs Cloud9,Pearl,Cloud9,5,2,4,2,1,1,1,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LEVIATÁN vs Cloud9,Split,LEVIATÁN,3,1,4,0,4,5,3,1
+VCT 2026: Americas Kickoff,Main Event,Middle Round 1,LEVIATÁN vs Cloud9,Split,Cloud9,4,5,3,1,3,1,4,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,100 Thieves vs Sentinels,Corrode,100 Thieves,8,2,2,1,6,0,5,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,100 Thieves vs Sentinels,Corrode,Sentinels,6,0,5,0,8,2,2,1
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,100 Thieves vs Sentinels,Split,100 Thieves,10,3,3,0,8,2,4,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,100 Thieves vs Sentinels,Split,Sentinels,8,2,4,0,10,3,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,ENVY vs Cloud9,Pearl,ENVY,13,1,4,0,11,2,7,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,ENVY vs Cloud9,Pearl,Cloud9,11,2,7,0,13,1,4,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,ENVY vs Cloud9,Breeze,ENVY,10,2,1,0,6,1,1,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,ENVY vs Cloud9,Breeze,Cloud9,6,1,1,0,10,2,1,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,ENVY vs Cloud9,Split,ENVY,6,4,1,0,9,2,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 2,ENVY vs Cloud9,Split,Cloud9,9,2,2,0,6,4,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,NRG vs MIBR,Abyss,Mega Minors,7,4,0,2,5,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,NRG vs MIBR,Abyss,MIBR,5,0,1,0,7,4,0,2
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,NRG vs MIBR,Split,Mega Minors,4,2,3,2,6,3,4,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,NRG vs MIBR,Split,MIBR,6,3,4,0,4,2,3,2
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,NRG vs MIBR,Breeze,Mega Minors,4,2,1,1,9,1,3,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,NRG vs MIBR,Breeze,MIBR,9,1,3,0,4,2,1,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,FURIA vs G2 Esports,Abyss,FURIA,7,0,6,0,3,3,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,FURIA vs G2 Esports,Abyss,G2 Esports,3,3,1,0,7,0,6,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,FURIA vs G2 Esports,Bind,FURIA,2,0,3,1,8,2,2,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,FURIA vs G2 Esports,Bind,G2 Esports,8,2,2,1,2,0,3,1
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,FURIA vs G2 Esports,Split,FURIA,10,2,1,0,1,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Round 3,FURIA vs G2 Esports,Split,G2 Esports,1,0,2,0,10,2,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,LOUD vs Evil Geniuses,Haven,LOUD,2,3,0,0,7,0,6,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,LOUD vs Evil Geniuses,Haven,Evil Geniuses,7,0,6,0,2,3,0,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,LOUD vs Evil Geniuses,Abyss,LOUD,7,0,5,0,4,3,5,2
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,LOUD vs Evil Geniuses,Abyss,Evil Geniuses,4,3,5,2,7,0,5,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,KRÜ Esports vs LEVIATÁN,Bind,KRÜ Esports,1,2,0,1,8,0,3,2
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,KRÜ Esports vs LEVIATÁN,Bind,LEVIATÁN,8,0,3,2,1,2,0,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,KRÜ Esports vs LEVIATÁN,Split,KRÜ Esports,5,1,2,2,6,3,3,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 1,KRÜ Esports vs LEVIATÁN,Split,LEVIATÁN,6,3,3,1,5,1,2,2
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,NRG vs 100 Thieves,Haven,Mega Minors,5,5,3,0,8,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,NRG vs 100 Thieves,Haven,100 Thieves,8,0,1,0,5,5,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,NRG vs 100 Thieves,Corrode,Mega Minors,9,2,2,0,7,4,0,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,NRG vs 100 Thieves,Corrode,100 Thieves,7,4,0,0,9,2,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,G2 Esports vs Cloud9,Corrode,G2 Esports,10,3,0,0,6,3,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,G2 Esports vs Cloud9,Corrode,Cloud9,6,3,2,0,10,3,0,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,G2 Esports vs Cloud9,Bind,G2 Esports,10,0,2,1,4,2,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 3,G2 Esports vs Cloud9,Bind,Cloud9,4,2,3,0,10,0,2,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,ENVY vs Evil Geniuses,Pearl,ENVY,8,3,3,0,9,1,6,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,ENVY vs Evil Geniuses,Pearl,Evil Geniuses,9,1,6,0,8,3,3,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,ENVY vs Evil Geniuses,Corrode,ENVY,4,1,0,0,10,0,3,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,ENVY vs Evil Geniuses,Corrode,Evil Geniuses,10,0,3,0,4,1,0,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,Sentinels vs LEVIATÁN,Corrode,Sentinels,5,1,3,1,5,3,5,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,Sentinels vs LEVIATÁN,Corrode,LEVIATÁN,5,3,5,0,5,1,3,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,Sentinels vs LEVIATÁN,Bind,Sentinels,6,2,2,2,10,1,3,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 2,Sentinels vs LEVIATÁN,Bind,LEVIATÁN,10,1,3,0,6,2,2,2
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,100 Thieves vs Evil Geniuses,Haven,100 Thieves,8,4,1,0,7,3,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,100 Thieves vs Evil Geniuses,Haven,Evil Geniuses,7,3,1,0,8,4,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,100 Thieves vs Evil Geniuses,Bind,100 Thieves,10,1,4,0,6,1,5,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,100 Thieves vs Evil Geniuses,Bind,Evil Geniuses,6,1,5,1,10,1,4,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,Cloud9 vs LEVIATÁN,Bind,Cloud9,6,2,3,2,4,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,Cloud9 vs LEVIATÁN,Bind,LEVIATÁN,4,0,1,0,6,2,3,2
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,Cloud9 vs LEVIATÁN,Breeze,Cloud9,10,0,1,2,6,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 3,Cloud9 vs LEVIATÁN,Breeze,LEVIATÁN,6,0,1,0,10,0,1,2
+VCT 2026: Americas Kickoff,Main Event,Middle Round 4,NRG vs G2 Esports,Pearl,Mega Minors,1,2,0,0,9,1,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 4,NRG vs G2 Esports,Pearl,G2 Esports,9,1,3,0,1,2,0,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 4,NRG vs G2 Esports,Split,Mega Minors,5,1,2,0,13,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Middle Round 4,NRG vs G2 Esports,Split,G2 Esports,13,0,0,0,5,1,2,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 4,100 Thieves vs Cloud9,Pearl,100 Thieves,4,3,6,1,6,2,4,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 4,100 Thieves vs Cloud9,Pearl,Cloud9,6,2,4,0,4,3,6,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 4,100 Thieves vs Cloud9,Split,100 Thieves,6,2,2,1,11,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 4,100 Thieves vs Cloud9,Split,Cloud9,11,0,2,0,6,2,2,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 4,100 Thieves vs Cloud9,Abyss,100 Thieves,10,2,1,0,2,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 4,100 Thieves vs Cloud9,Abyss,Cloud9,2,0,0,0,10,2,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Bind,MIBR,4,4,2,3,4,3,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Bind,FURIA,4,3,1,0,4,4,2,3
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Abyss,MIBR,5,1,2,0,8,4,1,0
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Abyss,FURIA,8,4,1,0,5,1,2,0
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Haven,MIBR,5,2,3,1,7,2,4,0
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Haven,FURIA,7,2,4,0,5,2,3,1
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Breeze,MIBR,6,0,6,1,2,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Breeze,FURIA,2,0,0,0,6,0,6,1
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Split,MIBR,3,3,2,0,8,1,2,2
+VCT 2026: Americas Kickoff,Main Event,Upper Final,MIBR vs FURIA,Split,FURIA,8,1,2,2,3,3,2,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 5,NRG vs 100 Thieves,Pearl,Mega Minors,7,4,2,0,2,0,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 5,NRG vs 100 Thieves,Pearl,100 Thieves,2,0,1,0,7,4,2,0
+VCT 2026: Americas Kickoff,Main Event,Lower Round 5,NRG vs 100 Thieves,Abyss,Mega Minors,9,1,1,2,6,1,0,1
+VCT 2026: Americas Kickoff,Main Event,Lower Round 5,NRG vs 100 Thieves,Abyss,100 Thieves,6,1,0,1,9,1,1,2
+VCT 2026: Americas Kickoff,Main Event,Middle Final,MIBR vs G2 Esports,Breeze,MIBR,5,1,0,0,10,2,1,0
+VCT 2026: Americas Kickoff,Main Event,Middle Final,MIBR vs G2 Esports,Breeze,G2 Esports,10,2,1,0,5,1,0,0
+VCT 2026: Americas Kickoff,Main Event,Middle Final,MIBR vs G2 Esports,Haven,MIBR,2,0,2,0,9,1,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Final,MIBR vs G2 Esports,Haven,G2 Esports,9,1,3,0,2,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Middle Final,MIBR vs G2 Esports,Corrode,MIBR,5,0,2,0,10,0,3,0
+VCT 2026: Americas Kickoff,Main Event,Middle Final,MIBR vs G2 Esports,Corrode,G2 Esports,10,0,3,0,5,0,2,0
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Bind,MIBR,11,1,1,0,5,1,1,2
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Bind,Mega Minors,5,1,1,2,11,1,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Corrode,MIBR,7,3,3,0,3,1,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Corrode,Mega Minors,3,1,1,0,7,3,3,0
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Split,MIBR,7,2,1,0,7,3,2,1
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Split,Mega Minors,7,3,2,1,7,2,1,0
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Abyss,MIBR,4,0,0,0,10,0,2,1
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Abyss,Mega Minors,10,0,2,1,4,0,0,0
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Haven,MIBR,4,0,1,0,6,1,4,2
+VCT 2026: Americas Kickoff,Main Event,Lower Final,MIBR vs NRG,Haven,Mega Minors,6,1,4,2,4,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,Natus Vincere vs Karmine Corp,Split,Natus Vincere,10,2,1,0,8,0,1,2
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,Natus Vincere vs Karmine Corp,Split,Karmine Corp,8,0,1,2,10,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,Natus Vincere vs Karmine Corp,Haven,Natus Vincere,9,0,3,1,4,0,2,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,Natus Vincere vs Karmine Corp,Haven,Karmine Corp,4,0,2,1,9,0,3,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,FUT Esports vs Gentle Mates,Abyss,FUT Esports,4,0,4,0,6,4,3,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,FUT Esports vs Gentle Mates,Abyss,Gentle Mates,6,4,3,0,4,0,4,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,FUT Esports vs Gentle Mates,Split,FUT Esports,5,0,1,0,10,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,FUT Esports vs Gentle Mates,Split,Gentle Mates,10,1,2,0,5,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,PCIFIC Esports vs BBL Esports,Breeze,PCIFIC Esports,6,1,3,0,9,2,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,PCIFIC Esports vs BBL Esports,Breeze,BBL Esports,9,2,2,0,6,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,PCIFIC Esports vs BBL Esports,Abyss,PCIFIC Esports,11,0,2,0,4,2,0,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,PCIFIC Esports vs BBL Esports,Abyss,BBL Esports,4,2,0,1,11,0,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,PCIFIC Esports vs BBL Esports,Pearl,PCIFIC Esports,4,0,0,0,8,1,3,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,PCIFIC Esports vs BBL Esports,Pearl,BBL Esports,8,1,3,1,4,0,0,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,ULF Esports vs Team Vitality,Breeze,ULF Esports,3,0,0,0,10,0,3,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,ULF Esports vs Team Vitality,Breeze,Team Vitality,10,0,3,0,3,0,0,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,ULF Esports vs Team Vitality,Corrode,ULF Esports,1,0,0,0,9,0,4,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 1,ULF Esports vs Team Vitality,Corrode,Team Vitality,9,0,4,0,1,0,0,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Heretics vs Natus Vincere,Bind,Team Heretics,6,1,3,0,11,0,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Heretics vs Natus Vincere,Bind,Natus Vincere,11,0,2,0,6,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Heretics vs Natus Vincere,Haven,Team Heretics,10,2,1,0,7,2,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Heretics vs Natus Vincere,Haven,Natus Vincere,7,2,2,0,10,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Heretics vs Natus Vincere,Split,Team Heretics,3,1,2,0,9,0,3,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Heretics vs Natus Vincere,Split,Natus Vincere,9,0,3,1,3,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,GIANTX vs Gentle Mates,Pearl,GIANTX,8,1,1,0,4,4,5,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,GIANTX vs Gentle Mates,Pearl,Gentle Mates,4,4,5,0,8,1,1,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,GIANTX vs Gentle Mates,Bind,GIANTX,7,3,0,0,9,2,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,GIANTX vs Gentle Mates,Bind,Gentle Mates,9,2,2,0,7,3,0,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,FNATIC vs BBL Esports,Breeze,FNATIC,5,1,5,0,7,2,3,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,FNATIC vs BBL Esports,Breeze,BBL Esports,7,2,3,1,5,1,5,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,FNATIC vs BBL Esports,Haven,FNATIC,2,2,0,0,6,2,4,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,FNATIC vs BBL Esports,Haven,BBL Esports,6,2,4,1,2,2,0,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Liquid vs Team Vitality,Breeze,Team Liquid,6,2,2,1,8,3,1,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Liquid vs Team Vitality,Breeze,Team Vitality,8,3,1,1,6,2,2,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Liquid vs Team Vitality,Pearl,Team Liquid,10,1,2,1,8,2,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Liquid vs Team Vitality,Pearl,Team Vitality,8,2,2,0,10,1,2,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Liquid vs Team Vitality,Corrode,Team Liquid,5,1,1,2,8,1,3,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 2,Team Liquid vs Team Vitality,Corrode,Team Vitality,8,1,3,1,5,1,1,2
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,Karmine Corp vs Team Liquid,Abyss,Karmine Corp,7,0,5,1,1,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,Karmine Corp vs Team Liquid,Abyss,Team Liquid,1,0,1,0,7,0,5,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,Karmine Corp vs Team Liquid,Split,Karmine Corp,4,1,3,0,7,3,1,2
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,Karmine Corp vs Team Liquid,Split,Team Liquid,7,3,1,2,4,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,Karmine Corp vs Team Liquid,Breeze,Karmine Corp,4,5,1,0,10,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,Karmine Corp vs Team Liquid,Breeze,Team Liquid,10,2,1,0,4,5,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,FUT Esports vs FNATIC,Abyss,FUT Esports,0,1,2,0,12,1,0,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,FUT Esports vs FNATIC,Abyss,FNATIC,12,1,0,0,0,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,FUT Esports vs FNATIC,Corrode,FUT Esports,10,0,6,2,10,0,5,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,FUT Esports vs FNATIC,Corrode,FNATIC,10,0,5,1,10,0,6,2
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,FUT Esports vs FNATIC,Split,FUT Esports,11,1,2,0,13,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,FUT Esports vs FNATIC,Split,FNATIC,13,1,2,0,11,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,PCIFIC Esports vs GIANTX,Abyss,PCIFIC Esports,3,3,2,0,4,2,7,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,PCIFIC Esports vs GIANTX,Abyss,GIANTX,4,2,7,0,3,3,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,PCIFIC Esports vs GIANTX,Bind,PCIFIC Esports,11,1,1,1,8,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,PCIFIC Esports vs GIANTX,Bind,GIANTX,8,1,3,0,11,1,1,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,PCIFIC Esports vs GIANTX,Split,PCIFIC Esports,7,0,2,1,10,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,PCIFIC Esports vs GIANTX,Split,GIANTX,10,1,2,0,7,0,2,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,ULF Esports vs Team Heretics,Haven,ULF Esports,6,0,1,0,11,1,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,ULF Esports vs Team Heretics,Haven,Team Heretics,11,1,1,0,6,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,ULF Esports vs Team Heretics,Bind,ULF Esports,3,0,5,0,7,1,5,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 1,ULF Esports vs Team Heretics,Bind,Team Heretics,7,1,5,0,3,0,5,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,Natus Vincere vs Gentle Mates,Abyss,Natus Vincere,4,0,3,0,7,2,4,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,Natus Vincere vs Gentle Mates,Abyss,Gentle Mates,7,2,4,0,4,0,3,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,Natus Vincere vs Gentle Mates,Bind,Natus Vincere,8,0,1,0,7,3,3,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,Natus Vincere vs Gentle Mates,Bind,Gentle Mates,7,3,3,0,8,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,BBL Esports vs Team Vitality,Haven,BBL Esports,7,2,3,1,4,0,5,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,BBL Esports vs Team Vitality,Haven,Team Vitality,4,0,5,0,7,2,3,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,BBL Esports vs Team Vitality,Abyss,BBL Esports,6,5,2,0,1,3,4,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Round 3,BBL Esports vs Team Vitality,Abyss,Team Vitality,1,3,4,0,6,5,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,Team Liquid vs FNATIC,Corrode,Team Liquid,4,0,1,0,8,2,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,Team Liquid vs FNATIC,Corrode,FNATIC,8,2,3,0,4,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,Team Liquid vs FNATIC,Split,Team Liquid,5,1,3,0,8,4,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,Team Liquid vs FNATIC,Split,FNATIC,8,4,1,0,5,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,GIANTX vs Team Heretics,Abyss,GIANTX,9,1,3,0,6,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,GIANTX vs Team Heretics,Abyss,Team Heretics,6,1,3,0,9,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,GIANTX vs Team Heretics,Haven,GIANTX,9,1,3,0,4,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 2,GIANTX vs Team Heretics,Haven,Team Heretics,4,1,2,0,9,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,Karmine Corp vs FUT Esports,Haven,Karmine Corp,7,1,5,1,7,1,3,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,Karmine Corp vs FUT Esports,Haven,FUT Esports,7,1,3,1,7,1,5,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,Karmine Corp vs FUT Esports,Split,Karmine Corp,5,2,1,0,9,1,1,2
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,Karmine Corp vs FUT Esports,Split,FUT Esports,9,1,1,2,5,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,Karmine Corp vs FUT Esports,Pearl,Karmine Corp,8,3,2,0,7,0,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,Karmine Corp vs FUT Esports,Pearl,FUT Esports,7,0,0,0,8,3,2,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,PCIFIC Esports vs ULF Esports,Split,PCIFIC Esports,2,1,2,0,10,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,PCIFIC Esports vs ULF Esports,Split,ULF Esports,10,2,1,0,2,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,PCIFIC Esports vs ULF Esports,Abyss,PCIFIC Esports,6,0,2,0,8,3,2,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 1,PCIFIC Esports vs ULF Esports,Abyss,ULF Esports,8,3,2,0,6,0,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Natus Vincere vs FNATIC,Split,Natus Vincere,8,0,2,0,6,1,4,2
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Natus Vincere vs FNATIC,Split,FNATIC,6,1,4,2,8,0,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Natus Vincere vs FNATIC,Breeze,Natus Vincere,9,1,2,1,3,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Natus Vincere vs FNATIC,Breeze,FNATIC,3,2,1,0,9,1,2,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Natus Vincere vs FNATIC,Bind,Natus Vincere,10,2,3,0,12,2,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Natus Vincere vs FNATIC,Bind,FNATIC,12,2,3,0,10,2,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Team Vitality vs GIANTX,Abyss,Team Vitality,9,3,1,0,0,0,0,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Team Vitality vs GIANTX,Abyss,GIANTX,0,0,0,0,9,3,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Team Vitality vs GIANTX,Breeze,Team Vitality,8,3,1,1,8,0,2,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 3,Team Vitality vs GIANTX,Breeze,GIANTX,8,0,2,1,8,3,1,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Heretics vs Karmine Corp,Haven,Team Heretics,6,1,5,1,5,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Heretics vs Karmine Corp,Haven,Karmine Corp,5,2,1,0,6,1,5,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Heretics vs Karmine Corp,Corrode,Team Heretics,9,1,2,1,5,2,4,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Heretics vs Karmine Corp,Corrode,Karmine Corp,5,2,4,0,9,1,2,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Heretics vs Karmine Corp,Abyss,Team Heretics,1,0,1,0,12,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Heretics vs Karmine Corp,Abyss,Karmine Corp,12,0,1,0,1,0,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Liquid vs ULF Esports,Split,Team Liquid,4,3,1,0,7,2,3,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Liquid vs ULF Esports,Split,ULF Esports,7,2,3,1,4,3,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Liquid vs ULF Esports,Pearl,Team Liquid,11,1,1,1,8,2,1,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Liquid vs ULF Esports,Pearl,ULF Esports,8,2,1,1,11,1,1,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Liquid vs ULF Esports,Breeze,Team Liquid,10,1,1,1,3,2,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 2,Team Liquid vs ULF Esports,Breeze,ULF Esports,3,2,0,0,10,1,1,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,Natus Vincere vs Team Heretics,Haven,Natus Vincere,5,0,0,0,9,0,3,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,Natus Vincere vs Team Heretics,Haven,Team Heretics,9,0,3,1,5,0,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,Natus Vincere vs Team Heretics,Breeze,Natus Vincere,4,0,0,0,10,0,3,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,Natus Vincere vs Team Heretics,Breeze,Team Heretics,10,0,3,0,4,0,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,GIANTX vs Team Liquid,Breeze,GIANTX,2,0,1,1,8,4,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,GIANTX vs Team Liquid,Breeze,Team Liquid,8,4,1,0,2,0,1,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,GIANTX vs Team Liquid,Pearl,GIANTX,10,0,2,1,4,0,1,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,GIANTX vs Team Liquid,Pearl,Team Liquid,4,0,1,1,10,0,2,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,GIANTX vs Team Liquid,Bind,GIANTX,8,0,6,0,8,2,5,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 3,GIANTX vs Team Liquid,Bind,Team Liquid,8,2,5,1,8,0,6,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 4,Team Heretics vs Team Liquid,Abyss,Team Heretics,7,1,3,0,7,1,5,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 4,Team Heretics vs Team Liquid,Abyss,Team Liquid,7,1,5,0,7,1,3,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 4,Team Heretics vs Team Liquid,Bind,Team Heretics,1,1,1,0,10,3,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 4,Team Heretics vs Team Liquid,Bind,Team Liquid,10,3,0,0,1,1,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 4,FNATIC vs Team Vitality,Abyss,FNATIC,11,1,1,0,2,2,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 4,FNATIC vs Team Vitality,Abyss,Team Vitality,2,2,1,0,11,1,1,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 4,FNATIC vs Team Vitality,Bind,FNATIC,7,3,2,1,3,1,4,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Round 4,FNATIC vs Team Vitality,Bind,Team Vitality,3,1,4,0,7,3,2,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Haven,Gentle Mates,6,0,7,0,8,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Haven,BBL Esports,8,1,2,0,6,0,7,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Abyss,Gentle Mates,8,1,3,1,8,4,1,2
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Abyss,BBL Esports,8,4,1,2,8,1,3,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Pearl,Gentle Mates,8,3,3,0,13,0,2,1
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Pearl,BBL Esports,13,0,2,1,8,3,3,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Split,Gentle Mates,11,0,2,0,2,1,1,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Split,BBL Esports,2,1,1,0,11,0,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Corrode,Gentle Mates,3,0,3,0,8,3,2,0
+VCT 2026: EMEA Kickoff,Main Event,Upper Final,Gentle Mates vs BBL Esports,Corrode,BBL Esports,8,3,2,0,3,0,3,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 5,Team Vitality vs Team Liquid,Corrode,Team Vitality,11,2,0,0,5,2,0,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 5,Team Vitality vs Team Liquid,Corrode,Team Liquid,5,2,0,1,11,2,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 5,Team Vitality vs Team Liquid,Bind,Team Vitality,2,1,0,0,9,1,2,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 5,Team Vitality vs Team Liquid,Bind,Team Liquid,9,1,2,1,2,1,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 5,Team Vitality vs Team Liquid,Breeze,Team Vitality,6,0,2,1,8,1,4,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Round 5,Team Vitality vs Team Liquid,Breeze,Team Liquid,8,1,4,0,6,0,2,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Abyss,Gentle Mates,4,2,4,0,8,2,3,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Abyss,FNATIC,8,2,3,0,4,2,4,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Corrode,Gentle Mates,9,0,5,0,10,1,5,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Corrode,FNATIC,10,1,5,0,9,0,5,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Split,Gentle Mates,6,5,1,1,4,0,2,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Split,FNATIC,4,0,2,0,6,5,1,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Bind,Gentle Mates,7,3,4,0,6,2,2,2
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Bind,FNATIC,6,2,2,2,7,3,4,0
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Haven,Gentle Mates,9,1,1,3,6,2,3,1
+VCT 2026: EMEA Kickoff,Main Event,Middle Final,Gentle Mates vs FNATIC,Haven,FNATIC,6,2,3,1,9,1,1,3
+VCT 2026: EMEA Kickoff,Main Event,Lower Final,FNATIC vs Team Liquid,Corrode,FNATIC,5,1,0,0,9,2,1,1
+VCT 2026: EMEA Kickoff,Main Event,Lower Final,FNATIC vs Team Liquid,Corrode,Team Liquid,9,2,1,1,5,1,0,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Final,FNATIC vs Team Liquid,Bind,FNATIC,8,1,1,0,10,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Final,FNATIC vs Team Liquid,Bind,Team Liquid,10,1,2,0,8,1,1,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Final,FNATIC vs Team Liquid,Abyss,FNATIC,9,0,7,0,15,1,2,0
+VCT 2026: EMEA Kickoff,Main Event,Lower Final,FNATIC vs Team Liquid,Abyss,Team Liquid,15,1,2,0,9,0,7,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,Nongshim RedForce vs Team Secret,Haven,Nongshim RedForce,8,4,1,0,1,1,3,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,Nongshim RedForce vs Team Secret,Haven,Team Secret,1,1,3,0,8,4,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,Nongshim RedForce vs Team Secret,Split,Nongshim RedForce,10,2,1,0,5,2,0,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,Nongshim RedForce vs Team Secret,Split,Team Secret,5,2,0,1,10,2,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,ZETA DIVISION vs FULL SENSE,Corrode,ZETA DIVISION,3,1,0,0,7,2,4,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,ZETA DIVISION vs FULL SENSE,Corrode,FULL SENSE,7,2,4,0,3,1,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,ZETA DIVISION vs FULL SENSE,Split,ZETA DIVISION,2,0,0,0,10,3,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,ZETA DIVISION vs FULL SENSE,Split,FULL SENSE,10,3,0,0,2,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,VARREL vs Global Esports,Abyss,VARREL,4,1,2,0,8,0,5,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,VARREL vs Global Esports,Abyss,Global Esports,8,0,5,0,4,1,2,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,VARREL vs Global Esports,Split,VARREL,6,0,0,1,12,0,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,VARREL vs Global Esports,Split,Global Esports,12,0,1,0,6,0,0,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,DetonatioN FocusMe vs Gen.G,Abyss,DetonatioN FocusMe,7,1,5,0,5,1,1,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,DetonatioN FocusMe vs Gen.G,Abyss,Gen.G,5,1,1,1,7,1,5,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,DetonatioN FocusMe vs Gen.G,Pearl,DetonatioN FocusMe,7,2,3,1,3,2,4,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 1,DetonatioN FocusMe vs Gen.G,Pearl,Gen.G,3,2,4,1,7,2,3,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,T1 vs Nongshim RedForce,Haven,T1,4,0,0,0,9,2,2,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,T1 vs Nongshim RedForce,Haven,Nongshim RedForce,9,2,2,0,4,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,T1 vs Nongshim RedForce,Corrode,T1,6,1,1,1,5,4,3,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,T1 vs Nongshim RedForce,Corrode,Nongshim RedForce,5,4,3,1,6,1,1,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,T1 vs Nongshim RedForce,Split,T1,10,0,1,2,7,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,T1 vs Nongshim RedForce,Split,Nongshim RedForce,7,1,1,0,10,0,1,2
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,DRX vs FULL SENSE,Breeze,DRX,9,2,2,0,4,2,3,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,DRX vs FULL SENSE,Breeze,FULL SENSE,4,2,3,1,9,2,2,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,DRX vs FULL SENSE,Pearl,DRX,4,1,2,1,6,3,4,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,DRX vs FULL SENSE,Pearl,FULL SENSE,6,3,4,0,4,1,2,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,DRX vs FULL SENSE,Split,DRX,6,0,1,1,9,3,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,DRX vs FULL SENSE,Split,FULL SENSE,9,3,1,0,6,0,1,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Paper Rex vs Global Esports,Breeze,Paper Rex,5,1,6,1,6,0,3,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Paper Rex vs Global Esports,Breeze,Global Esports,6,0,3,1,5,1,6,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Paper Rex vs Global Esports,Split,Paper Rex,2,0,2,1,8,1,3,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Paper Rex vs Global Esports,Split,Global Esports,8,1,3,1,2,0,2,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Paper Rex vs Global Esports,Bind,Paper Rex,8,1,3,1,9,0,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Paper Rex vs Global Esports,Bind,Global Esports,9,0,1,0,8,1,3,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Rex Regum Qeon vs DetonatioN FocusMe,Haven,Rex Regum Qeon,7,0,5,1,4,1,4,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Rex Regum Qeon vs DetonatioN FocusMe,Haven,DetonatioN FocusMe,4,1,4,1,7,0,5,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Rex Regum Qeon vs DetonatioN FocusMe,Corrode,Rex Regum Qeon,9,1,2,1,2,2,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 2,Rex Regum Qeon vs DetonatioN FocusMe,Corrode,DetonatioN FocusMe,2,2,1,0,9,1,2,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Team Secret vs DetonatioN FocusMe,Split,Team Secret,2,0,0,0,10,0,2,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Team Secret vs DetonatioN FocusMe,Split,DetonatioN FocusMe,10,0,2,1,2,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Team Secret vs DetonatioN FocusMe,Bind,Team Secret,6,0,2,0,8,2,2,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Team Secret vs DetonatioN FocusMe,Bind,DetonatioN FocusMe,8,2,2,1,6,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,ZETA DIVISION vs Global Esports,Haven,ZETA DIVISION,8,2,1,0,10,1,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,ZETA DIVISION vs Global Esports,Haven,Global Esports,10,1,2,0,8,2,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,ZETA DIVISION vs Global Esports,Abyss,ZETA DIVISION,7,0,2,0,8,0,5,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,ZETA DIVISION vs Global Esports,Abyss,Global Esports,8,0,5,0,7,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,VARREL vs DRX,Corrode,VARREL,3,5,3,2,5,3,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,VARREL vs DRX,Corrode,DRX,5,3,2,0,3,5,3,2
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,VARREL vs DRX,Split,VARREL,6,2,2,0,7,2,3,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,VARREL vs DRX,Split,DRX,7,2,3,1,6,2,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,VARREL vs DRX,Bind,VARREL,4,0,0,1,8,4,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,VARREL vs DRX,Bind,DRX,8,4,1,0,4,0,0,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Gen.G vs T1,Breeze,Gen.G,9,1,3,0,5,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Gen.G vs T1,Breeze,T1,5,1,1,0,9,1,3,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Gen.G vs T1,Bind,Gen.G,4,3,1,0,8,0,4,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Gen.G vs T1,Bind,T1,8,0,4,1,4,3,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Gen.G vs T1,Haven,Gen.G,6,1,1,1,6,4,3,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 1,Gen.G vs T1,Haven,T1,6,4,3,0,6,1,1,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Nongshim RedForce vs FULL SENSE,Split,Nongshim RedForce,9,2,3,0,10,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Nongshim RedForce vs FULL SENSE,Split,FULL SENSE,10,1,1,0,9,2,3,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Nongshim RedForce vs FULL SENSE,Bind,Nongshim RedForce,11,1,1,0,2,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Nongshim RedForce vs FULL SENSE,Bind,FULL SENSE,2,0,0,0,11,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Paper Rex vs Rex Regum Qeon,Bind,Paper Rex,5,1,0,0,9,1,3,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Paper Rex vs Rex Regum Qeon,Bind,Rex Regum Qeon,9,1,3,0,5,1,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Paper Rex vs Rex Regum Qeon,Pearl,Paper Rex,3,1,1,0,11,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Round 3,Paper Rex vs Rex Regum Qeon,Pearl,Rex Regum Qeon,11,1,1,0,3,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DetonatioN FocusMe vs Global Esports,Breeze,DetonatioN FocusMe,3,0,0,0,8,0,5,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DetonatioN FocusMe vs Global Esports,Breeze,Global Esports,8,0,5,0,3,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DetonatioN FocusMe vs Global Esports,Pearl,DetonatioN FocusMe,8,2,3,0,5,0,4,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DetonatioN FocusMe vs Global Esports,Pearl,Global Esports,5,0,4,0,8,2,3,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DetonatioN FocusMe vs Global Esports,Split,DetonatioN FocusMe,9,1,2,1,5,2,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DetonatioN FocusMe vs Global Esports,Split,Global Esports,5,2,1,0,9,1,2,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DRX vs T1,Split,DRX,4,0,2,2,5,3,4,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DRX vs T1,Split,T1,5,3,4,1,4,0,2,2
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DRX vs T1,Bind,DRX,5,0,2,1,9,1,1,2
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 2,DRX vs T1,Bind,T1,9,1,1,2,5,0,2,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,Team Secret vs ZETA DIVISION,Bind,Team Secret,6,3,4,0,3,0,1,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,Team Secret vs ZETA DIVISION,Bind,ZETA DIVISION,3,0,1,0,6,3,4,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,Team Secret vs ZETA DIVISION,Split,Team Secret,3,0,1,0,10,2,1,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,Team Secret vs ZETA DIVISION,Split,ZETA DIVISION,10,2,1,0,3,0,1,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,Team Secret vs ZETA DIVISION,Abyss,Team Secret,3,3,5,0,8,2,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,Team Secret vs ZETA DIVISION,Abyss,ZETA DIVISION,8,2,3,0,3,3,5,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,VARREL vs Gen.G,Breeze,VARREL,5,3,2,0,10,1,1,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,VARREL vs Gen.G,Breeze,Gen.G,10,1,1,1,5,3,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,VARREL vs Gen.G,Pearl,VARREL,14,1,5,0,11,1,3,3
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,VARREL vs Gen.G,Pearl,Gen.G,11,1,3,3,14,1,5,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,VARREL vs Gen.G,Haven,VARREL,6,0,2,1,7,3,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 1,VARREL vs Gen.G,Haven,Gen.G,7,3,3,0,6,0,2,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,Pearl,FULL SENSE,6,1,6,0,3,3,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,Pearl,DetonatioN FocusMe,3,3,1,0,6,1,6,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,Split,FULL SENSE,5,0,4,0,10,1,1,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,Split,DetonatioN FocusMe,10,1,1,1,5,0,4,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,Haven,FULL SENSE,6,0,0,0,7,1,4,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,Haven,DetonatioN FocusMe,7,1,4,1,6,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,Paper Rex vs T1,Pearl,Paper Rex,10,1,2,0,6,2,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,Paper Rex vs T1,Pearl,T1,6,2,2,0,10,1,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,Paper Rex vs T1,Breeze,Paper Rex,7,1,1,0,12,0,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,Paper Rex vs T1,Breeze,T1,12,0,1,0,7,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,Paper Rex vs T1,Bind,Paper Rex,3,3,2,0,9,2,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 3,Paper Rex vs T1,Bind,T1,9,2,2,0,3,3,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,DRX vs ZETA DIVISION,Haven,DRX,11,2,0,0,5,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,DRX vs ZETA DIVISION,Haven,ZETA DIVISION,5,0,2,0,11,2,0,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,DRX vs ZETA DIVISION,Bind,DRX,1,2,3,1,7,3,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,DRX vs ZETA DIVISION,Bind,ZETA DIVISION,7,3,3,0,1,2,3,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,DRX vs ZETA DIVISION,Split,DRX,9,2,1,1,7,2,0,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,DRX vs ZETA DIVISION,Split,ZETA DIVISION,7,2,0,0,9,2,1,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,Global Esports vs Gen.G,Breeze,Global Esports,8,0,5,0,11,2,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,Global Esports vs Gen.G,Breeze,Gen.G,11,2,2,0,8,0,5,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,Global Esports vs Gen.G,Abyss,Global Esports,7,1,4,1,7,0,3,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,Global Esports vs Gen.G,Abyss,Gen.G,7,0,3,1,7,1,4,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,Global Esports vs Gen.G,Haven,Global Esports,8,1,4,0,10,0,1,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 2,Global Esports vs Gen.G,Haven,Gen.G,10,0,1,0,8,1,4,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,FULL SENSE vs DRX,Corrode,FULL SENSE,1,0,2,0,8,3,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,FULL SENSE vs DRX,Corrode,DRX,8,3,2,0,1,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,FULL SENSE vs DRX,Abyss,FULL SENSE,7,2,0,0,10,1,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,FULL SENSE vs DRX,Abyss,DRX,10,1,2,0,7,2,0,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,Paper Rex vs Global Esports,Corrode,Paper Rex,8,0,4,1,4,1,5,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,Paper Rex vs Global Esports,Corrode,Global Esports,4,1,5,0,8,0,4,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,Paper Rex vs Global Esports,Breeze,Paper Rex,6,0,0,0,10,0,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,Paper Rex vs Global Esports,Breeze,Global Esports,10,0,3,0,6,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,Paper Rex vs Global Esports,Split,Paper Rex,12,0,2,0,9,0,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 3,Paper Rex vs Global Esports,Split,Global Esports,9,0,3,0,12,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 4,DRX vs Paper Rex,Haven,DRX,6,2,2,1,10,0,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 4,DRX vs Paper Rex,Haven,Paper Rex,10,0,3,0,6,2,2,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 4,DRX vs Paper Rex,Corrode,DRX,9,1,3,0,6,1,1,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 4,DRX vs Paper Rex,Corrode,Paper Rex,6,1,1,0,9,1,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 4,DRX vs Paper Rex,Breeze,DRX,8,0,2,0,6,4,3,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 4,DRX vs Paper Rex,Breeze,Paper Rex,6,4,3,0,8,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 4,DetonatioN FocusMe vs T1,Pearl,DetonatioN FocusMe,5,2,0,0,7,3,2,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 4,DetonatioN FocusMe vs T1,Pearl,T1,7,3,2,1,5,2,0,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 4,DetonatioN FocusMe vs T1,Split,DetonatioN FocusMe,4,1,3,2,8,1,4,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Round 4,DetonatioN FocusMe vs T1,Split,T1,8,1,4,0,4,1,3,2
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Corrode,Nongshim RedForce,10,0,2,0,7,1,6,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Corrode,Rex Regum Qeon,7,1,6,0,10,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Bind,Nongshim RedForce,5,6,1,1,4,2,1,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Bind,Rex Regum Qeon,4,2,1,1,5,6,1,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Haven,Nongshim RedForce,7,3,3,0,4,0,0,1
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Haven,Rex Regum Qeon,4,0,0,1,7,3,3,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Abyss,Nongshim RedForce,10,1,0,0,5,3,3,2
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Abyss,Rex Regum Qeon,5,3,3,2,10,1,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Breeze,Nongshim RedForce,8,4,1,0,7,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Upper Final,Nongshim RedForce vs Rex Regum Qeon,Breeze,Rex Regum Qeon,7,0,0,0,8,4,1,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 5,DetonatioN FocusMe vs Paper Rex,Haven,DetonatioN FocusMe,7,2,2,0,11,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 5,DetonatioN FocusMe vs Paper Rex,Haven,Paper Rex,11,0,2,0,7,2,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 5,DetonatioN FocusMe vs Paper Rex,Split,DetonatioN FocusMe,0,2,0,0,10,0,2,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Round 5,DetonatioN FocusMe vs Paper Rex,Split,Paper Rex,10,0,2,1,0,2,0,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Final,Rex Regum Qeon vs T1,Pearl,Rex Regum Qeon,3,3,1,0,7,2,3,1
+VCT 2026: Pacific Kickoff,Main Event,Middle Final,Rex Regum Qeon vs T1,Pearl,T1,7,2,3,1,3,3,1,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Final,Rex Regum Qeon vs T1,Breeze,Rex Regum Qeon,2,0,0,0,8,0,5,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Final,Rex Regum Qeon vs T1,Breeze,T1,8,0,5,0,2,0,0,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Final,Rex Regum Qeon vs T1,Abyss,Rex Regum Qeon,9,3,5,0,13,1,5,0
+VCT 2026: Pacific Kickoff,Main Event,Middle Final,Rex Regum Qeon vs T1,Abyss,T1,13,1,5,0,9,3,5,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Haven,Rex Regum Qeon,6,2,0,0,10,1,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Haven,Paper Rex,10,1,2,0,6,2,0,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Corrode,Rex Regum Qeon,6,3,4,0,6,3,1,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Corrode,Paper Rex,6,3,1,0,6,3,4,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Breeze,Rex Regum Qeon,5,1,4,0,8,2,2,1
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Breeze,Paper Rex,8,2,2,1,5,1,4,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Pearl,Rex Regum Qeon,7,1,2,0,11,0,2,0
+VCT 2026: Pacific Kickoff,Main Event,Lower Final,Rex Regum Qeon vs Paper Rex,Pearl,Paper Rex,11,0,2,0,7,1,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,Trace Esports vs Wolves Esports,Abyss,Trace Esports,7,2,4,0,6,1,0,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,Trace Esports vs Wolves Esports,Abyss,Wolves Esports,6,1,0,0,7,2,4,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,Trace Esports vs Wolves Esports,Haven,Trace Esports,6,3,2,0,11,0,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,Trace Esports vs Wolves Esports,Haven,Wolves Esports,11,0,2,0,6,3,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,Trace Esports vs Wolves Esports,Bind,Trace Esports,2,2,1,0,9,0,3,1
+VCT 2026: China Kickoff,Main Event,Upper Round 1,Trace Esports vs Wolves Esports,Bind,Wolves Esports,9,0,3,1,2,2,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,FunPlus Phoenix vs TYLOO,Pearl,FunPlus Phoenix,2,1,0,0,10,0,2,1
+VCT 2026: China Kickoff,Main Event,Upper Round 1,FunPlus Phoenix vs TYLOO,Pearl,TYLOO,10,0,2,1,2,1,0,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,FunPlus Phoenix vs TYLOO,Haven,FunPlus Phoenix,4,0,0,0,12,0,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,FunPlus Phoenix vs TYLOO,Haven,TYLOO,12,0,1,0,4,0,0,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,All Gamers vs Nova Esports,Split,All Gamers,9,1,3,0,4,2,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,All Gamers vs Nova Esports,Split,Nova Esports,4,2,1,0,9,1,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,All Gamers vs Nova Esports,Pearl,All Gamers,11,2,3,0,10,1,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,All Gamers vs Nova Esports,Pearl,Nova Esports,10,1,3,0,11,2,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,JDG Esports vs Titan Esports Club,Corrode,JDG Esports,8,1,4,0,5,0,0,1
+VCT 2026: China Kickoff,Main Event,Upper Round 1,JDG Esports vs Titan Esports Club,Corrode,Titan Esports Club,5,0,0,1,8,1,4,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,JDG Esports vs Titan Esports Club,Haven,JDG Esports,4,1,1,0,7,2,4,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,JDG Esports vs Titan Esports Club,Haven,Titan Esports Club,7,2,4,0,4,1,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,JDG Esports vs Titan Esports Club,Abyss,JDG Esports,7,1,4,1,7,0,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 1,JDG Esports vs Titan Esports Club,Abyss,Titan Esports Club,7,0,3,0,7,1,4,1
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Xi Lai Gaming vs Wolves Esports,Breeze,Xi Lai Gaming,10,1,0,2,1,0,2,1
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Xi Lai Gaming vs Wolves Esports,Breeze,Wolves Esports,1,0,2,1,10,1,0,2
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Xi Lai Gaming vs Wolves Esports,Abyss,Xi Lai Gaming,9,2,2,0,4,0,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Xi Lai Gaming vs Wolves Esports,Abyss,Wolves Esports,4,0,2,0,9,2,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,EDward Gaming vs TYLOO,Abyss,EDward Gaming,11,1,1,0,3,0,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,EDward Gaming vs TYLOO,Abyss,TYLOO,3,0,2,0,11,1,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,EDward Gaming vs TYLOO,Bind,EDward Gaming,12,0,1,1,4,1,6,1
+VCT 2026: China Kickoff,Main Event,Upper Round 2,EDward Gaming vs TYLOO,Bind,TYLOO,4,1,6,1,12,0,1,1
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Bilibili Gaming vs All Gamers,Split,Bilibili Gaming,7,1,0,2,10,1,1,1
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Bilibili Gaming vs All Gamers,Split,All Gamers,10,1,1,1,7,1,0,2
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Bilibili Gaming vs All Gamers,Abyss,Bilibili Gaming,2,0,1,0,10,2,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Bilibili Gaming vs All Gamers,Abyss,All Gamers,10,2,1,0,2,0,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,Abyss,Dragon Ranger Gaming,7,2,1,1,7,2,4,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,Abyss,JDG Esports,7,2,4,0,7,2,1,1
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,Breeze,Dragon Ranger Gaming,8,1,3,1,4,2,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,Breeze,JDG Esports,4,2,2,0,8,1,3,1
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,Corrode,Dragon Ranger Gaming,11,0,2,0,3,2,4,0
+VCT 2026: China Kickoff,Main Event,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,Corrode,JDG Esports,3,2,4,0,11,0,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Nova Esports vs TYLOO,Split,Nova Esports,6,1,3,0,8,2,3,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Nova Esports vs TYLOO,Split,TYLOO,8,2,3,0,6,1,3,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Nova Esports vs TYLOO,Corrode,Nova Esports,3,0,1,0,10,1,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Nova Esports vs TYLOO,Corrode,TYLOO,10,1,2,0,3,0,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Titan Esports Club vs Wolves Esports,Breeze,Titan Esports Club,11,0,2,0,5,2,3,1
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Titan Esports Club vs Wolves Esports,Breeze,Wolves Esports,5,2,3,1,11,0,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Titan Esports Club vs Wolves Esports,Bind,Titan Esports Club,5,1,1,0,9,0,2,2
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Titan Esports Club vs Wolves Esports,Bind,Wolves Esports,9,0,2,2,5,1,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Titan Esports Club vs Wolves Esports,Haven,Titan Esports Club,8,3,2,0,6,0,1,1
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Titan Esports Club vs Wolves Esports,Haven,Wolves Esports,6,0,1,1,8,3,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Trace Esports vs JDG Esports,Split,Trace Esports,10,1,2,0,6,1,2,2
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Trace Esports vs JDG Esports,Split,JDG Esports,6,1,2,2,10,1,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Trace Esports vs JDG Esports,Pearl,Trace Esports,2,0,1,0,10,2,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Trace Esports vs JDG Esports,Pearl,JDG Esports,10,2,1,0,2,0,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Trace Esports vs JDG Esports,Corrode,Trace Esports,9,2,2,0,3,0,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,Trace Esports vs JDG Esports,Corrode,JDG Esports,3,0,1,0,9,2,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,FunPlus Phoenix vs Bilibili Gaming,Pearl,FunPlus Phoenix,6,1,2,0,9,2,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,FunPlus Phoenix vs Bilibili Gaming,Pearl,Bilibili Gaming,9,2,2,0,6,1,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 1,FunPlus Phoenix vs Bilibili Gaming,Bind,FunPlus Phoenix,7,2,4,2,9,2,5,1
+VCT 2026: China Kickoff,Main Event,Middle Round 1,FunPlus Phoenix vs Bilibili Gaming,Bind,Bilibili Gaming,9,2,5,1,7,2,4,2
+VCT 2026: China Kickoff,Main Event,Middle Round 2,TYLOO vs Titan Esports Club,Corrode,TYLOO,8,1,1,0,6,3,2,2
+VCT 2026: China Kickoff,Main Event,Middle Round 2,TYLOO vs Titan Esports Club,Corrode,Titan Esports Club,6,3,2,2,8,1,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,TYLOO vs Titan Esports Club,Breeze,TYLOO,6,3,4,0,7,1,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,TYLOO vs Titan Esports Club,Breeze,Titan Esports Club,7,1,1,0,6,3,4,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,TYLOO vs Titan Esports Club,Split,TYLOO,8,2,3,0,5,2,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,TYLOO vs Titan Esports Club,Split,Titan Esports Club,5,2,2,0,8,2,3,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,Trace Esports vs Bilibili Gaming,Abyss,Trace Esports,3,4,3,0,9,3,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,Trace Esports vs Bilibili Gaming,Abyss,Bilibili Gaming,9,3,1,0,3,4,3,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,Trace Esports vs Bilibili Gaming,Breeze,Trace Esports,6,1,4,0,6,2,5,0
+VCT 2026: China Kickoff,Main Event,Middle Round 2,Trace Esports vs Bilibili Gaming,Breeze,Bilibili Gaming,6,2,5,0,6,1,4,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,Nova Esports vs Wolves Esports,Abyss,Nova Esports,7,2,4,0,3,2,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,Nova Esports vs Wolves Esports,Abyss,Wolves Esports,3,2,0,0,7,2,4,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,Nova Esports vs Wolves Esports,Haven,Nova Esports,3,0,0,0,10,0,3,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,Nova Esports vs Wolves Esports,Haven,Wolves Esports,10,0,3,0,3,0,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,Nova Esports vs Wolves Esports,Pearl,Nova Esports,8,0,3,0,7,0,5,1
+VCT 2026: China Kickoff,Main Event,Lower Round 1,Nova Esports vs Wolves Esports,Pearl,Wolves Esports,7,0,5,1,8,0,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,All Gamers vs Dragon Ranger Gaming,Corrode,All Gamers,3,1,3,0,8,2,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,All Gamers vs Dragon Ranger Gaming,Corrode,Dragon Ranger Gaming,8,2,3,0,3,1,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,All Gamers vs Dragon Ranger Gaming,Bind,All Gamers,10,0,2,3,11,1,1,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,All Gamers vs Dragon Ranger Gaming,Bind,Dragon Ranger Gaming,11,1,1,0,10,0,2,3
+VCT 2026: China Kickoff,Main Event,Upper Round 3,All Gamers vs Dragon Ranger Gaming,Abyss,All Gamers,9,2,2,0,6,2,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,All Gamers vs Dragon Ranger Gaming,Abyss,Dragon Ranger Gaming,6,2,2,0,9,2,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,JDG Esports vs FunPlus Phoenix,Pearl,JDG Esports,5,0,0,0,11,0,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,JDG Esports vs FunPlus Phoenix,Pearl,FunPlus Phoenix,11,0,2,0,5,0,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,JDG Esports vs FunPlus Phoenix,Bind,JDG Esports,9,0,2,2,3,0,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,JDG Esports vs FunPlus Phoenix,Bind,FunPlus Phoenix,3,0,0,0,9,0,2,2
+VCT 2026: China Kickoff,Main Event,Lower Round 1,JDG Esports vs FunPlus Phoenix,Haven,JDG Esports,9,1,3,0,6,1,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 1,JDG Esports vs FunPlus Phoenix,Haven,FunPlus Phoenix,6,1,0,0,9,1,3,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,Xi Lai Gaming vs EDward Gaming,Split,Xi Lai Gaming,6,2,5,0,4,1,0,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,Xi Lai Gaming vs EDward Gaming,Split,EDward Gaming,4,1,0,0,6,2,5,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,Xi Lai Gaming vs EDward Gaming,Pearl,Xi Lai Gaming,10,0,2,1,4,0,2,0
+VCT 2026: China Kickoff,Main Event,Upper Round 3,Xi Lai Gaming vs EDward Gaming,Pearl,EDward Gaming,4,0,2,0,10,0,2,1
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Trace Esports vs Wolves Esports,Abyss,Trace Esports,7,1,4,0,8,2,4,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Trace Esports vs Wolves Esports,Abyss,Wolves Esports,8,2,4,0,7,1,4,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Trace Esports vs Wolves Esports,Bind,Trace Esports,9,2,2,0,7,1,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Trace Esports vs Wolves Esports,Bind,Wolves Esports,7,1,0,0,9,2,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Trace Esports vs Wolves Esports,Split,Trace Esports,10,3,0,0,3,2,1,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Trace Esports vs Wolves Esports,Split,Wolves Esports,3,2,1,0,10,3,0,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,Dragon Ranger Gaming vs TYLOO,Corrode,Dragon Ranger Gaming,8,1,1,0,6,1,5,1
+VCT 2026: China Kickoff,Main Event,Middle Round 3,Dragon Ranger Gaming vs TYLOO,Corrode,TYLOO,6,1,5,1,8,1,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,Dragon Ranger Gaming vs TYLOO,Split,Dragon Ranger Gaming,8,3,1,1,5,0,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,Dragon Ranger Gaming vs TYLOO,Split,TYLOO,5,0,1,0,8,3,1,1
+VCT 2026: China Kickoff,Main Event,Middle Round 3,Dragon Ranger Gaming vs TYLOO,Pearl,Dragon Ranger Gaming,5,2,5,1,3,2,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,Dragon Ranger Gaming vs TYLOO,Pearl,TYLOO,3,2,1,0,5,2,5,1
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Titan Esports Club vs JDG Esports,Bind,Titan Esports Club,7,4,2,0,2,1,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Titan Esports Club vs JDG Esports,Bind,JDG Esports,2,1,2,0,7,4,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Titan Esports Club vs JDG Esports,Haven,Titan Esports Club,4,1,5,0,7,2,3,1
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Titan Esports Club vs JDG Esports,Haven,JDG Esports,7,2,3,1,4,1,5,0
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Titan Esports Club vs JDG Esports,Split,Titan Esports Club,6,0,2,0,9,0,3,1
+VCT 2026: China Kickoff,Main Event,Lower Round 2,Titan Esports Club vs JDG Esports,Split,JDG Esports,9,0,3,1,6,0,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,EDward Gaming vs Bilibili Gaming,Abyss,EDward Gaming,4,3,0,0,8,1,4,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,EDward Gaming vs Bilibili Gaming,Abyss,Bilibili Gaming,8,1,4,0,4,3,0,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,EDward Gaming vs Bilibili Gaming,Haven,EDward Gaming,10,0,3,0,7,0,1,1
+VCT 2026: China Kickoff,Main Event,Middle Round 3,EDward Gaming vs Bilibili Gaming,Haven,Bilibili Gaming,7,0,1,1,10,0,3,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,EDward Gaming vs Bilibili Gaming,Breeze,EDward Gaming,3,1,0,1,10,2,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 3,EDward Gaming vs Bilibili Gaming,Breeze,Bilibili Gaming,10,2,1,0,3,1,0,1
+VCT 2026: China Kickoff,Main Event,Lower Round 3,TYLOO vs Trace Esports,Haven,TYLOO,10,1,2,0,2,4,1,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,TYLOO vs Trace Esports,Haven,Trace Esports,2,4,1,0,10,1,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,TYLOO vs Trace Esports,Abyss,TYLOO,10,0,4,0,6,1,5,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,TYLOO vs Trace Esports,Abyss,Trace Esports,6,1,5,0,10,0,4,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,EDward Gaming vs JDG Esports,Abyss,EDward Gaming,10,1,2,0,4,0,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,EDward Gaming vs JDG Esports,Abyss,JDG Esports,4,0,2,0,10,1,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,EDward Gaming vs JDG Esports,Haven,EDward Gaming,6,0,0,0,8,0,5,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,EDward Gaming vs JDG Esports,Haven,JDG Esports,8,0,5,0,6,0,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,EDward Gaming vs JDG Esports,Corrode,EDward Gaming,12,0,1,0,5,0,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 3,EDward Gaming vs JDG Esports,Corrode,JDG Esports,5,0,0,0,12,0,1,0
+VCT 2026: China Kickoff,Main Event,Middle Round 4,Dragon Ranger Gaming vs Bilibili Gaming,Split,Dragon Ranger Gaming,4,0,2,0,10,1,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 4,Dragon Ranger Gaming vs Bilibili Gaming,Split,Bilibili Gaming,10,1,2,0,4,0,2,0
+VCT 2026: China Kickoff,Main Event,Middle Round 4,Dragon Ranger Gaming vs Bilibili Gaming,Abyss,Dragon Ranger Gaming,1,1,0,0,8,0,4,1
+VCT 2026: China Kickoff,Main Event,Middle Round 4,Dragon Ranger Gaming vs Bilibili Gaming,Abyss,Bilibili Gaming,8,0,4,1,1,1,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 4,TYLOO vs EDward Gaming,Bind,TYLOO,9,0,2,2,3,0,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 4,TYLOO vs EDward Gaming,Bind,EDward Gaming,3,0,0,0,9,0,2,2
+VCT 2026: China Kickoff,Main Event,Lower Round 4,TYLOO vs EDward Gaming,Haven,TYLOO,5,3,1,0,9,0,3,1
+VCT 2026: China Kickoff,Main Event,Lower Round 4,TYLOO vs EDward Gaming,Haven,EDward Gaming,9,0,3,1,5,3,1,0
+VCT 2026: China Kickoff,Main Event,Lower Round 4,TYLOO vs EDward Gaming,Corrode,TYLOO,4,0,3,0,10,2,1,0
+VCT 2026: China Kickoff,Main Event,Lower Round 4,TYLOO vs EDward Gaming,Corrode,EDward Gaming,10,2,1,0,4,0,3,0
+VCT 2026: China Kickoff,Main Event,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,Split,Dragon Ranger Gaming,9,2,2,0,7,0,4,0
+VCT 2026: China Kickoff,Main Event,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,Split,EDward Gaming,7,0,4,0,9,2,2,0
+VCT 2026: China Kickoff,Main Event,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,Pearl,Dragon Ranger Gaming,1,0,1,0,11,2,0,0
+VCT 2026: China Kickoff,Main Event,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,Pearl,EDward Gaming,11,2,0,0,1,0,1,0
+VCT 2026: China Kickoff,Main Event,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,Corrode,Dragon Ranger Gaming,5,1,0,0,12,0,0,1
+VCT 2026: China Kickoff,Main Event,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,Corrode,EDward Gaming,12,0,0,1,5,1,0,0
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Pearl,All Gamers,5,0,6,2,3,1,1,0
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Pearl,Xi Lai Gaming,3,1,1,0,5,0,6,2
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Split,All Gamers,8,0,3,2,9,0,2,0
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Split,Xi Lai Gaming,9,0,2,0,8,0,3,2
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Bind,All Gamers,4,0,1,2,9,2,2,0
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Bind,Xi Lai Gaming,9,2,2,0,4,0,1,2
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Abyss,All Gamers,1,0,5,0,7,3,2,1
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Abyss,Xi Lai Gaming,7,3,2,1,1,0,5,0
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Haven,All Gamers,9,0,3,1,6,2,2,0
+VCT 2026: China Kickoff,Main Event,Upper Final,All Gamers vs Xi Lai Gaming,Haven,Xi Lai Gaming,6,2,2,0,9,0,3,1
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Abyss,Xi Lai Gaming,6,4,4,0,8,3,4,1
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Abyss,Bilibili Gaming,8,3,4,1,6,4,4,0
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Bind,Xi Lai Gaming,8,1,4,0,4,0,0,0
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Bind,Bilibili Gaming,4,0,0,0,8,1,4,0
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Breeze,Xi Lai Gaming,7,1,3,1,10,1,2,1
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Breeze,Bilibili Gaming,10,1,2,1,7,1,3,1
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Pearl,Xi Lai Gaming,4,1,8,0,8,0,1,2
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Pearl,Bilibili Gaming,8,0,1,2,4,1,8,0
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Split,Xi Lai Gaming,9,0,2,2,4,0,0,0
+VCT 2026: China Kickoff,Main Event,Middle Final,Xi Lai Gaming vs Bilibili Gaming,Split,Bilibili Gaming,4,0,0,0,9,0,2,2
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Pearl,Bilibili Gaming,7,1,3,2,5,1,2,1
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Pearl,EDward Gaming,5,1,2,1,7,1,3,2
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Haven,Bilibili Gaming,9,0,0,1,11,1,1,0
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Haven,EDward Gaming,11,1,1,0,9,0,0,1
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Abyss,Bilibili Gaming,7,1,1,1,12,0,1,0
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Abyss,EDward Gaming,12,0,1,0,7,1,1,1
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Split,Bilibili Gaming,4,0,2,0,11,1,1,0
+VCT 2026: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Split,EDward Gaming,11,1,1,0,4,0,2,0
