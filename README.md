@@ -23,6 +23,3 @@ The primary goal is to **predict match win/loss outcomes** (binary classificatio
 | Modeling | Weeks 6–7 | Build and compare classification models, evaluate and refine |
 | Interpretation | Weeks 8+ | Interpret results and finalize conclusions |
 
-## Notes
-- Data merging strategy (separate vs. combined CSVs) is under consideration
-- Further questions to be addressed during office hours
