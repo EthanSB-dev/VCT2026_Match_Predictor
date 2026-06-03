@@ -1,0 +1,75 @@
+CODEBOOK: Match Prediction Dataset
+====================================
+
+OVERVIEW
+--------
+This codebook defines every column in the final dataset (match_df) used
+for the match outcome prediction model. The dataset is constructed by
+merging scores.csv with aggregated team-level statistics from
+players_stats.csv, joined on Tournament, Stage, Match Type, and team name.
+
+
+MATCH IDENTIFICATION COLUMNS
+-----------------------------
+Tournament   | String  | Name of the tournament in which the match was played
+Stage        | String  | Stage of the tournament (e.g., Group Stage, Quarterfinals, Finals)
+Match Type   | String  | Format or type of match (e.g., Best of 1, Best of 3)
+Team A       | String  | Name of the first team in the matchup
+Team B       | String  | Name of the second team in the matchup
+Match Result | String  | Raw result string, formatted as "WinningTeam def. LosingTeam"
+
+
+TARGET VARIABLE
+---------------
+target | Integer (binary) | Outcome from Team A's perspective
+         1 = Team A won
+         0 = Team B won (Team A lost)
+         Derived from Match Result by checking whether the result string
+         begins with Team A's name (case-insensitive, whitespace-stripped).
+
+
+TEAM A AGGREGATED STATISTICS
+-----------------------------
+All columns prefixed with "team_a_". Represent Team A's historical average
+performance, aggregated from players_stats.csv by Tournament, Stage,
+Match Type, and team name.
+
+team_a_ACS        | Float | Average combat score per round
+team_a_K          | Float | Average kills per map
+team_a_D          | Float | Average deaths per map
+team_a_A          | Float | Average assists per map
+team_a_KD         | Float | Kill-to-death ratio
+team_a_KAST       | Float | % of rounds with a kill, assist, survive, or trade
+team_a_ADR        | Float | Average damage per round
+team_a_HS%        | Float | Headshot percentage
+team_a_FK         | Float | Average first kills per map
+team_a_FD         | Float | Average first deaths per map
+
+
+TEAM B AGGREGATED STATISTICS
+-----------------------------
+All columns prefixed with "team_b_". Same aggregation method as Team A.
+
+team_b_ACS        | Float | Average combat score per round
+team_b_K          | Float | Average kills per map
+team_b_D          | Float | Average deaths per map
+team_b_A          | Float | Average assists per map
+team_b_KD         | Float | Kill-to-death ratio
+team_b_KAST       | Float | % of rounds with a kill, assist, survive, or trade
+team_b_ADR        | Float | Average damage per round
+team_b_HS%        | Float | Headshot percentage
+team_b_FK         | Float | Average first kills per map
+team_b_FD         | Float | Average first deaths per map
+
+
+DATA CONSTRUCTION NOTES
+------------------------
+Source files   : scores.csv (match results) and players_stats.csv
+                 (player-level stats aggregated to team level)
+Join keys      : Tournament, Stage, Match Type, Team A / Team B
+Aggregation    : Player stats grouped by team and match context, then
+                 averaged to produce one row per team per match context
+Merge type     : Left join — all rows from scores.csv are retained;
+                 missing values indicate no historical data available
+Target encoding: target column derived by comparing the start of the
+                 Match Result string to the Team A name
