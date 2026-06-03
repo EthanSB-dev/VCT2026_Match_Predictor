@@ -1,1 +1,0 @@
-quarto render VCTMatch_Prediction.ipynb --to html -M code-fold:true -M toc:true -M toc-location:left -M self-contained:true
